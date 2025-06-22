@@ -1,0 +1,10 @@
+body {
+    font-family: segoe print;
+}
+h1{
+ color: aqua; 
+    
+}
+ul{
+    color: blue;
+}
