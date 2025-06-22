@@ -1,0 +1,9 @@
+body {
+    font-family: FreeMono, monospace;
+}
+h1{
+ color: rgb(0, 197, 197); 
+}    
+p{
+    color: rgb(0, 0, 0);
+}
